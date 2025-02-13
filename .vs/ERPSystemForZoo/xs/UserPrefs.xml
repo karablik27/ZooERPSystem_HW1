@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{74EB696C-C978-4F7F-A7D0-FDA7836118BD}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ZooApp/Program.cs">
+    <Files>
+      <File FileName="ZooApp/Program.cs" Line="3" Column="28" />
+      <File FileName="Interfaces/IInventory.cs" />
+      <File FileName="Interfaces/IAlive.cs" />
+      <File FileName="AnimalsLibrary/Animal.cs" />
+      <File FileName="AnimalsLibrary/HerboAnimals/Monkey.cs" />
+      <File FileName="AnimalsLibrary/HerboAnimals/Rabbit.cs" />
+      <File FileName="AnimalsLibrary/PredatorAnimals/Tiger.cs" />
+      <File FileName="AnimalsLibrary/PredatorAnimals/Wolf.cs" />
+      <File FileName="ThingsLibrary/Thing.cs" />
+      <File FileName="ThingsLibrary/SomeThings/Table.cs" />
+      <File FileName="ThingsLibrary/SomeThings/Computer.cs" />
+      <File FileName="Places/VeterinaryClinic.cs" />
+      <File FileName="Places/Zoo.cs" />
+      <File FileName="Places/IHealthChecker.cs" />
+      <File FileName="ZooApp/Methods/Colors.cs" />
+      <File FileName="ZooApp/Methods/ConsoleInterface.cs" />
+      <File FileName="ZooApp/Methods/Input.cs" />
+      <File FileName="ZooApp/Methods/Methods.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ERPSystemForZoo" expanded="True">
+            <Node name="AnimalsLibrary" expanded="True" />
+            <Node name="Interfaces" expanded="True" />
+            <Node name="Places" expanded="True" />
+            <Node name="ThingsLibrary" expanded="True" />
+            <Node name="ZooApp" expanded="True">
+              <Node name="Methods" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ERPTests FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ZooApp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

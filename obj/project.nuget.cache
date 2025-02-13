@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8uCprDg0bOvUtDHBpig3cY7ver1+uFk9FeWkKb4smHtM2JxQLGAfZiiDCVjS3fV19kVzJ49O3vzrUloh4+/IlQ==",
+  "success": true,
+  "projectFilePath": "/Users/verhovnyjmag/Projects/ERPSystemForZoo/ERPSystemForZoo.csproj",
+  "expectedPackageFiles": [
+    "/Users/verhovnyjmag/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.2/microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "/Users/verhovnyjmag/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.2/microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

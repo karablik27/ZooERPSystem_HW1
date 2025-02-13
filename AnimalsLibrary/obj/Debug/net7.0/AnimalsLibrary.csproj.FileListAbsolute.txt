@@ -1,0 +1,15 @@
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/AnimalsLibrary/bin/Debug/net7.0/AnimalsLibrary.deps.json
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/AnimalsLibrary/bin/Debug/net7.0/AnimalsLibrary.dll
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/AnimalsLibrary/bin/Debug/net7.0/AnimalsLibrary.pdb
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/AnimalsLibrary/bin/Debug/net7.0/Interfaces.dll
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/AnimalsLibrary/bin/Debug/net7.0/Interfaces.pdb
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/AnimalsLibrary/obj/Debug/net7.0/AnimalsLibrary.csproj.AssemblyReference.cache
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/AnimalsLibrary/obj/Debug/net7.0/AnimalsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/AnimalsLibrary/obj/Debug/net7.0/AnimalsLibrary.AssemblyInfoInputs.cache
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/AnimalsLibrary/obj/Debug/net7.0/AnimalsLibrary.AssemblyInfo.cs
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/AnimalsLibrary/obj/Debug/net7.0/AnimalsLibrary.csproj.CoreCompileInputs.cache
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/AnimalsLibrary/obj/Debug/net7.0/AnimalsLibrary.csproj.CopyComplete
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/AnimalsLibrary/obj/Debug/net7.0/AnimalsLibrary.dll
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/AnimalsLibrary/obj/Debug/net7.0/refint/AnimalsLibrary.dll
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/AnimalsLibrary/obj/Debug/net7.0/AnimalsLibrary.pdb
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/AnimalsLibrary/obj/Debug/net7.0/ref/AnimalsLibrary.dll

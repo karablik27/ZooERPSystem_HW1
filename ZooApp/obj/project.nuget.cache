@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "cqt7wluBzSI05mqnbqkvhCZmE1W/tf/aLiDm0kgR6d/Rprjq1LoPBDpThWO75002J9oDDsD2yorqy2duB0LTeQ==",
+  "success": true,
+  "projectFilePath": "/Users/verhovnyjmag/Projects/ERPSystemForZoo/ZooApp/ZooApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/verhovnyjmag/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/verhovnyjmag/.nuget/packages/coverlet.collector/6.0.4/coverlet.collector.6.0.4.nupkg.sha512",
+    "/Users/verhovnyjmag/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/verhovnyjmag/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/verhovnyjmag/.nuget/packages/moq/4.20.72/moq.4.20.72.nupkg.sha512",
+    "/Users/verhovnyjmag/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "/Users/verhovnyjmag/.nuget/packages/xunit/2.9.3/xunit.2.9.3.nupkg.sha512",
+    "/Users/verhovnyjmag/.nuget/packages/xunit.abstractions/2.0.3/xunit.abstractions.2.0.3.nupkg.sha512",
+    "/Users/verhovnyjmag/.nuget/packages/xunit.analyzers/1.18.0/xunit.analyzers.1.18.0.nupkg.sha512",
+    "/Users/verhovnyjmag/.nuget/packages/xunit.assert/2.9.3/xunit.assert.2.9.3.nupkg.sha512",
+    "/Users/verhovnyjmag/.nuget/packages/xunit.core/2.9.3/xunit.core.2.9.3.nupkg.sha512",
+    "/Users/verhovnyjmag/.nuget/packages/xunit.extensibility.core/2.9.3/xunit.extensibility.core.2.9.3.nupkg.sha512",
+    "/Users/verhovnyjmag/.nuget/packages/xunit.extensibility.execution/2.9.3/xunit.extensibility.execution.2.9.3.nupkg.sha512"
+  ],
+  "logs": []
+}

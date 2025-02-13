@@ -1,0 +1,130 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "AnimalsLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Interfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AnimalsLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AnimalsLibrary.dll": {}
+        }
+      },
+      "Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Interfaces.dll": {}
+        }
+      },
+      "ThingsLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Interfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ThingsLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ThingsLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AnimalsLibrary/1.0.0": {
+      "type": "project",
+      "path": "../AnimalsLibrary/AnimalsLibrary.csproj",
+      "msbuildProject": "../AnimalsLibrary/AnimalsLibrary.csproj"
+    },
+    "Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../Interfaces/Interfaces.csproj",
+      "msbuildProject": "../Interfaces/Interfaces.csproj"
+    },
+    "ThingsLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ThingsLibrary/ThingsLibrary.csproj",
+      "msbuildProject": "../ThingsLibrary/ThingsLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "AnimalsLibrary >= 1.0.0",
+      "ThingsLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/verhovnyjmag/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/verhovnyjmag/Projects/ERPSystemForZoo/Places/Places.csproj",
+      "projectName": "Places",
+      "projectPath": "/Users/verhovnyjmag/Projects/ERPSystemForZoo/Places/Places.csproj",
+      "packagesPath": "/Users/verhovnyjmag/.nuget/packages/",
+      "outputPath": "/Users/verhovnyjmag/Projects/ERPSystemForZoo/Places/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/verhovnyjmag/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/verhovnyjmag/Projects/ERPSystemForZoo/AnimalsLibrary/AnimalsLibrary.csproj": {
+              "projectPath": "/Users/verhovnyjmag/Projects/ERPSystemForZoo/AnimalsLibrary/AnimalsLibrary.csproj"
+            },
+            "/Users/verhovnyjmag/Projects/ERPSystemForZoo/ThingsLibrary/ThingsLibrary.csproj": {
+              "projectPath": "/Users/verhovnyjmag/Projects/ERPSystemForZoo/ThingsLibrary/ThingsLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

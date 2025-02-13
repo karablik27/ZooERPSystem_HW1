@@ -1,0 +1,5 @@
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/obj/Debug/net7.0/ERPSystemForZoo.csproj.AssemblyReference.cache
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/obj/Debug/net7.0/ERPSystemForZoo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/obj/Debug/net7.0/ERPSystemForZoo.AssemblyInfoInputs.cache
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/obj/Debug/net7.0/ERPSystemForZoo.AssemblyInfo.cs
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/obj/Debug/net7.0/ERPSystemForZoo.csproj.CoreCompileInputs.cache

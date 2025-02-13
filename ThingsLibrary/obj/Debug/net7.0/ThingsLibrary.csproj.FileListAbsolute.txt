@@ -1,0 +1,15 @@
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/ThingsLibrary/bin/Debug/net7.0/ThingsLibrary.deps.json
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/ThingsLibrary/bin/Debug/net7.0/ThingsLibrary.dll
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/ThingsLibrary/bin/Debug/net7.0/ThingsLibrary.pdb
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/ThingsLibrary/bin/Debug/net7.0/Interfaces.dll
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/ThingsLibrary/bin/Debug/net7.0/Interfaces.pdb
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/ThingsLibrary/obj/Debug/net7.0/ThingsLibrary.csproj.AssemblyReference.cache
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/ThingsLibrary/obj/Debug/net7.0/ThingsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/ThingsLibrary/obj/Debug/net7.0/ThingsLibrary.AssemblyInfoInputs.cache
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/ThingsLibrary/obj/Debug/net7.0/ThingsLibrary.AssemblyInfo.cs
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/ThingsLibrary/obj/Debug/net7.0/ThingsLibrary.csproj.CoreCompileInputs.cache
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/ThingsLibrary/obj/Debug/net7.0/ThingsLibrary.csproj.CopyComplete
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/ThingsLibrary/obj/Debug/net7.0/ThingsLibrary.dll
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/ThingsLibrary/obj/Debug/net7.0/refint/ThingsLibrary.dll
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/ThingsLibrary/obj/Debug/net7.0/ThingsLibrary.pdb
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/ThingsLibrary/obj/Debug/net7.0/ref/ThingsLibrary.dll

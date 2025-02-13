@@ -1,0 +1,11 @@
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/Interfaces/bin/Debug/net7.0/Interfaces.deps.json
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/Interfaces/bin/Debug/net7.0/Interfaces.dll
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/Interfaces/bin/Debug/net7.0/Interfaces.pdb
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/Interfaces/obj/Debug/net7.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/Interfaces/obj/Debug/net7.0/Interfaces.AssemblyInfoInputs.cache
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/Interfaces/obj/Debug/net7.0/Interfaces.AssemblyInfo.cs
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/Interfaces/obj/Debug/net7.0/Interfaces.csproj.CoreCompileInputs.cache
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/Interfaces/obj/Debug/net7.0/Interfaces.dll
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/Interfaces/obj/Debug/net7.0/refint/Interfaces.dll
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/Interfaces/obj/Debug/net7.0/Interfaces.pdb
+/Users/verhovnyjmag/Projects/ERPSystemForZoo/Interfaces/obj/Debug/net7.0/ref/Interfaces.dll
